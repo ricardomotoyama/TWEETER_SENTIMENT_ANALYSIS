@@ -73,7 +73,7 @@ We will test these four classification models:
 
 4) XGBoost Classifier
 
-<img src="https://media.giphy.com/media/xUPJPAf718lfPY9oyc/giphy.gif" width="500" height="300">
+<img src="https://media.giphy.com/media/xUPJPAf718lfPY9oyc/giphy.gif" width="400" height="300">
 
 Thank you!!
 
