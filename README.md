@@ -44,5 +44,5 @@ CBOW Model takes the context of each word as an input and tries to predict the w
 
 The input is an one hot encoded vector of size V and hidden layer contains N neurons. The output is again a V length vector with the elements being the softmax values.
 
-<img src="https://miro.medium.com/max/745/0*CCsrTAjN80MqswXG" width="700" height="300">
+<img src="https://miro.medium.com/max/745/0*CCsrTAjN80MqswXG" width="700" height="500">
 
