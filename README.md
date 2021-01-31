@@ -48,5 +48,5 @@ The input is an one hot encoded vector of size V and hidden layer contains N neu
 
 Skip-Gram uses the target word into the network and the model outputs C probability distributions. For each context position, the model gets C probability distributions of V probabilities, one for each word.
 
-<img src="https://miro.medium.com/max/875/0*Ta3qx5CQsrJloyCA.png" width="700" height="500">
+<img src="https://miro.medium.com/max/875/0*Ta3qx5CQsrJloyCA.png" width="500" height="600">
 
