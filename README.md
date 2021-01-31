@@ -28,4 +28,8 @@ There ae a lots of techniques to process texts into features will be used to dev
 
 ### 3) Word2Vec
 
+It is a statistical method standalone word embedding from a text corpus and it is capable of capturing context of a word in a document, semantic and syntactic similarity, relation with other words.
+
+Word2Vec works based on similarity and mathematically it maybe compared with the cosine of the angle between such vectors. If two vectors are very similar so cosine will be close to 1 and the angle between them will be close to 0. 
+
 <img src="https://miro.medium.com/max/871/0*XMW5mf81LSHodnTi.png" width="700" height="500">
