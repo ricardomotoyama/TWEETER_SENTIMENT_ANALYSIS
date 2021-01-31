@@ -20,6 +20,10 @@ There ae a lots of techniques to process texts into features will be used to dev
 
 ### 1) Bag-of-Words
 
+Bag of words is a Natural Language Processing technique of text modelling and it is a method of feature extraction from a text data.
+
+Besides that, bag of words is a representation of the frequency of words within a document.It keeps track of word counts and disregard the grammatical details and the word order.
+
 <img src="https://miro.medium.com/max/875/1*xUFlK4ZSu_GQFuRvcoBLRA.png" width="700" height="300">
 
 ### 2) Term Frequency - Inverse Document Frequenct (TF-IDF)
