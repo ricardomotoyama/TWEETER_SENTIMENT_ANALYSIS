@@ -28,4 +28,4 @@ There ae a lots of techniques to process texts into features will be used to dev
 
 ### 3) Word2Vec
 
-<img src="https://miro.medium.com/max/871/0*XMW5mf81LSHodnTi.png" width="900" height="500">
+<img src="https://miro.medium.com/max/871/0*XMW5mf81LSHodnTi.png" width="700" height="500">
