@@ -50,3 +50,4 @@ Skip-Gram uses the target word into the network and the model outputs C probabil
 
 <img src="https://miro.medium.com/max/875/0*Ta3qx5CQsrJloyCA.png" width="500" height="600">
 
+In this case study we will apply Skip-Gram.
