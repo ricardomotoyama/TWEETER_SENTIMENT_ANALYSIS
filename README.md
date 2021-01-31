@@ -75,6 +75,6 @@ We will test these four classification models:
 
 <img src="https://media.giphy.com/media/xUPJPAf718lfPY9oyc/giphy.gif" width="400" height="300">
 
-Thank you!!
+## Thank you!!
 
 
