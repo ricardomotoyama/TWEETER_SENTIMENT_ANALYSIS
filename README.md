@@ -2,7 +2,7 @@
 
 # How data helps to figure out patterns on Tweets
 
-Have you ever ask by yourself why a advertisement showed up on the screen of your notebook, tablet or smartphone if you didin't say anything or didn't type anything about this ad? You just thought about it.
+Have you ever asked yourself why a advertisement showed up on the screen of your notebook, tablet or smartphone if you didin't say anything or didn't type anything about this ad? You just thought about it.
 
 <img src="https://karolakarlson.com/wp-content/uploads/2017/03/surprised-4.gif" width="500" height="300">
 
