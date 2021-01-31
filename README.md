@@ -38,6 +38,6 @@ Word2Vec uses two methods: Common Bag Of Words (CBOW) or Skip-Gram.
 
 CBOW Model takes the context of each word as an input and tries to predict the word corresponding to the context.
 
-<img src="https://miro.medium.com/max/875/0*3DFDpaXoglalyB4c.png" width="700" height="500">
+<img src="https://miro.medium.com/max/875/0*3DFDpaXoglalyB4c.png" width="700" height="300">
 
 
