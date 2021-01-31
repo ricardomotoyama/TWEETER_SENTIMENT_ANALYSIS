@@ -4,7 +4,7 @@
 
 Have you ever ask by yourself why a advertisement showed up on the screen of your notebook, tablet or smartphone if you didin't say anything or didn't type anything about this ad? You just thought about it.
 
-<img src="https://blog.maxieduca.com.br/wp-content/uploads/2020/02/gif-1.gif" width="300" height="400">
+<img src="https://blog.maxieduca.com.br/wp-content/uploads/2020/02/gif-1.gif" width="500" height="300">
 
 
 
