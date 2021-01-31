@@ -34,10 +34,15 @@ Word2Vec works based on similarity and mathematically it maybe compared with the
 
 <img src="https://miro.medium.com/max/871/0*XMW5mf81LSHodnTi.png" width="700" height="500">
 
+
 Word2Vec uses two methods: Common Bag Of Words (CBOW) or Skip-Gram.
 
 CBOW Model takes the context of each word as an input and tries to predict the word corresponding to the context.
 
+
 <img src="https://miro.medium.com/max/875/0*3DFDpaXoglalyB4c.png" width="700" height="300">
 
+The input is an one hot encoded vector of size V and hidden layer contains N neurons. The output is again a V length vector with the elements being the softmax values.
+
+<img src="https://miro.medium.com/max/745/0*CCsrTAjN80MqswXG" width="700" height="300">
 
