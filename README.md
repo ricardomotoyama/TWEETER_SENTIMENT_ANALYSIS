@@ -30,6 +30,8 @@ Besides that, bag of words is a representation of the frequency of words within 
 
 ### 2) Term Frequency - Inverse Document Frequenct (TF-IDF)
 
+TF-IDF is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. It is often used as a weighting factor in searches of information retrieval, text mining, and user modeling. The tf–idf value increases proportionally to the number of times a word appears in the document and is offset by the number of documents in the corpus that contain the word, which helps to adjust for the fact that some words appear more frequently in general.
+
 <img src="https://mlwhiz.com/images/tfidf.png" width="900" height="500">
 
 ### 3) Word2Vec
