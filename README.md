@@ -20,7 +20,7 @@ There ae a lots of techniques to process texts into features will be used to dev
 
 ### 1) Bag-of-Words
 
-<img src="https://miro.medium.com/max/875/1*xUFlK4ZSu_GQFuRvcoBLRA.png" width="900" height="500">
+<img src="https://miro.medium.com/max/875/1*xUFlK4ZSu_GQFuRvcoBLRA.png" width="700" height="300">
 
 ### 2) Term Frequency - Inverse Document Frequenct (TF-IDF)
 
