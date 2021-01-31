@@ -33,3 +33,11 @@ It is a statistical method standalone word embedding from a text corpus and it i
 Word2Vec works based on similarity and mathematically it maybe compared with the cosine of the angle between such vectors. If two vectors are very similar so cosine will be close to 1 and the angle between them will be close to 0. 
 
 <img src="https://miro.medium.com/max/871/0*XMW5mf81LSHodnTi.png" width="700" height="500">
+
+Word2Vec uses two methods: Common Bag Of Words (CBOW) or Skip-Gram.
+
+CBOW Model takes the context of each word as an input and tries to predict the word corresponding to the context.
+
+<img src="https://miro.medium.com/max/875/0*3DFDpaXoglalyB4c.png" width="700" height="500">
+
+
