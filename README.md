@@ -26,6 +26,6 @@ There ae a lots of techniques to process texts into features will be used to dev
 
 <img src="https://mlwhiz.com/images/tfidf.png" width="900" height="500">
 
-
 ### 3) Word2Vec
 
+<img src="https://miro.medium.com/max/875/1*b06OA4v3x3yhQiFNNzbzow.png" width="900" height="500">
