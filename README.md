@@ -59,3 +59,22 @@ Skip-Gram uses the target word into the network and the model outputs C probabil
 <img src="https://miro.medium.com/max/875/0*Ta3qx5CQsrJloyCA.png" width="500" height="600">
 
 In this case study we will apply Skip-Gram.
+
+
+# Classification Models to predict if the tweets refer or not to politics, racism or sexism
+
+We will test these four classification models:
+
+1) Logistic Regression
+
+2) Support Vector Machine (SVM)
+
+3) Random Forest Classifier
+
+4) XGBoost Classifier
+
+<img src="https://media.giphy.com/media/xUPJPAf718lfPY9oyc/giphy.gif" width="500" height="600">
+
+Thank you!!
+
+
