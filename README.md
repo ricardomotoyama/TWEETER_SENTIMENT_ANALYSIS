@@ -4,7 +4,7 @@
 
 Have you ever ask by yourself why a advertisement showed up on the screen of your notebook, tablet or smartphone if you didin't say anything or didn't type anything about this ad? You just thought about it.
 
-<iframe src="https://gifer.com/embed/5rt" width=480 height=393.600 frameBorder="0" allowFullScreen></iframe>
+<iframe src="https://gifer.com/embed/5rt" width=480 height=393.600>
 
 At the same time that is funny it is so strange. Probably, you heard or read this sentence: "Data is the new oil of digital economy." 
 
